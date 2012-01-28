@@ -1,0 +1,95 @@
+PoweredSpawner - spawn mobs by a sign powered by redstone
+Version: v1.0
+Created by: Berny92 and Iorgreths
+
+-bild-
+
+Tested on CraftBukkit 1597 (CraftBukkit 1.0.1-R1)
+
+PoweredSpawner allows you to spawn any mob you like (a moblist can be found below). It is quite simple to set up a PoweredSpawner:
+Attach a sign to a block and write your configuration 
+In the first line you type: [ps]
+In the second line you type the mobname, like: bluesheep
+(Optional) In the third line you write the amount, like: 3
+Finish editing the sign
+Place 2 redstone wires heading to the sign
+Power the redstone wire and a mob will spawn 2 blocks above the sign!
+Screenshots:
+
+-bild-
+
+-bild-
+
+Moblist:
+Basic moblist:
+wolf
+squid
+chicken
+cow
+creeper
+chargedcreeper
+pig
+silverfish
+skeleton
+zombie
+blaze
+slime
+magma
+cave
+enderman
+enderdragon
+npc
+ghast
+giant
+spider
+mushroomcow
+pigzombie
+snowman
+sheep
+
+Advanced moblist:
+rainbow
+skeletonjockey
+pigzomjockey
+zombiejockey
+blazejockey
+ridingnpc
+
+Colors for sheeps:
+black
+blue
+brown
+cyan
+gray green
+lightblue
+lime
+magenta
+orange
+pink
+purple
+red
+silver
+white
+yellow
+
+To spawn a colored sheep just use the colorname+sheep, for example:
+blacksheep
+bluesheep
+brownsheep
+...
+
+The size of a slime or a magma can be set with the prefixes:
+small
+average
+large
+colossal
+
+To spawn a slime or a magma with prefix type your mobname like:
+smallslime
+averagemagma
+largeslime
+colossalmagma
+...
+
+TODO:
+Adding a permissions support

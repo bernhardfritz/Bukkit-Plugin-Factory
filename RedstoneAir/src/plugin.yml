@@ -1,0 +1,6 @@
+name: RedstoneAir
+main: me.Berny92.RedstoneAir.RedstoneAir
+version: 1.0
+description: This mod will allow to transmit a redstone signal over the air!
+author: Berny92
+authors: [Berny92, Iorgreths]

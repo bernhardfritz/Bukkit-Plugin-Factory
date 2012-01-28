@@ -1,0 +1,6 @@
+name: PoweredSpawner
+main: me.Berny92.PoweredSpawner.PoweredSpawner
+version: 1.0
+description: This mod will allow to spawn mobs by a sign powered by redstone.
+author: Berny92
+authors: [Berny92, Iorgreths]
